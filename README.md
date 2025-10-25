@@ -3,7 +3,7 @@ this repository contains the all the details required for the drone making from 
 **Title and Team Information**:<br>
 Title: Delivery Drone Simulator<br>
 <br>**Team Members**:<br>
-Manal Faisal: Programmer 1<br>
+Manal Faisal: Programmer/Team Leader 1<br>
 Fatima Faizan: Programmer 2<br>
 Minahil Tahir: Logic designer/Git manager/Tester<br>
 <br>**Overview/Programme Description**:<br>
@@ -34,10 +34,10 @@ The code has been designed and tested on **Visual Studio/Visual Studio Code** co
 
 Moreover,code has been pushed on this repository using **Gitbash**.<br>
 <br>**Team Collaboration**:<br>
-Manal Faisal: 
-             Plays a vital role of forming the base of the drone's code.Also <ins>leads this team</ins> skillfully by guiding each member with great detail.Has commited the base of the code<br>
-Fatima Faizan: <ins>refining and correcting the final code</ins>.This team member is essential for rechecking the code and adding additional features to it in order to keep it updated.Has commited refined code below:<br>
-Minahil Tahir: Responsible for maintaining a structured README.md file on <ins>github</ins> including other git files.Moreover,this team member handles <ins>formation of flowchart</ins> of functions for this particular assignment along with <ins>testing</ins> possible outcomes of the code formed by the team.Has commited flowchart document on this repository.<br>
+<br>Manal Faisal: 
+             Plays a vital role of <ins>forming the base<ins> of the drone's code.Also <ins>leads this team</ins> skillfully by guiding each member with great detail.Has commited the base of the code<br>
+<br>Fatima Faizan: <ins>refining and correcting the final code</ins>.This team member is essential for rechecking the code and adding additional features to it in order to keep it updated.Has commited refined code below:<br>
+<br>Minahil Tahir: Responsible for maintaining a structured README.md file on <ins>github</ins> including other git files.Moreover,this team member handles <ins>formation of flowchart</ins> of functions for this particular assignment along with <ins>testing</ins> possible outcomes of the code formed by the team.Has commited flowchart document on this repository.<br>
 
 
 <br>**Ai Tool Reflection**:<br>
