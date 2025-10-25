@@ -2,7 +2,7 @@
 this repository contains the all the details required for the drone making from failed protypes to successful runs.<br>
 **Title and Team Information**:<br>
 Title: Delivery Drone Simulator<br>
-**Team Members**:<br>
+<br>**Team Members**:<br>
 Manal Faisal: Programmer 1<br>
 Fatima Faizan: Programmer 2<br>
 Minahil Tahir: Logic designer/Git manager/Tester<br>
