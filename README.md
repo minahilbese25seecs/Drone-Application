@@ -24,6 +24,8 @@ The code has been designed and tested on "" complier.<br>
 Ai used: ChatGPT<br>
 Reason: ChatGPT has been used by my team to double-check the code and to confirm if it does not contain any errors or not.
 >ChatGPT has not been used to correct the errors, just used for <ins>pin-pointing the errors</ins>.<br>
+
+
 No Ai was used for documentation.<br>
 No Ai was used for brain-storming ideas for the drone simulator assignment.<br>
 
