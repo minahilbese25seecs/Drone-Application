@@ -17,7 +17,7 @@ It gives an idea of how drone delivery service's code might look like and how th
 
 
 <br>**Execution Instructions**:<br>
-The code has been designed and tested on "" complier.<br>
+The code has been designed and tested on "write name of complier" complier.<br>
 >The code might fail to run on Visual Studio code complier due the complexity between these two complier.One complier might be able to debug something successfully while the other complier fails to do so.<br>
 
 <br>**Ai Tool Reflection**:<br>
@@ -28,6 +28,13 @@ Reason: ChatGPT has been used by my team to double-check the code and to confirm
 
 No Ai was used for documentation.<br>
 No Ai was used for brain-storming ideas for the drone simulator assignment.<br>
+
+<br>**Future Improvements**:<br>
+Things that can be improved by my team if we had learnt arrays or any other c++ functions are:<br>
+1. Shorter code than the current code.
+>Less storage used which is a good programmer practice.<br>
+
+2. Implementation of coupon system would have been easier if...
 
 
 
