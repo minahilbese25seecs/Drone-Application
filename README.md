@@ -10,7 +10,7 @@ Minahil Tahir: Logic designer/Git manager/Tester<br>
 This programme backs up the idea for the future where <ins>human delivered parcels</ins> will be <ins>replaced</ins> by machines.
 It gives an idea of how drone delivery service's code might look like and how the code will handle daily-life obstacles that a drone will face during the delivery of the package.We are trying to keep it as user-friendly as possible as it is just a prototype for a real-life drone delivery service.Not only that but we have also included a unique <ins>Coupon System</ins> in our code that will provide the user a discount on his/her next order if the delivery was not satisfactory.The coupon will always be randomly generated.This feature was added to form a connection of trust and empathy with our users.<br>
 <br>**Programme/Logic Design**:<br>
-<br>**Functions Implemented**:<br>
+Functions Implemented:
 
 
 
@@ -19,6 +19,8 @@ It gives an idea of how drone delivery service's code might look like and how th
 <br>**Execution Instructions**:<br>
 The code has been designed and tested on "write name of complier" complier.<br>
 >The code might fail to run on Visual Studio code complier due the complexity between these two complier.One complier might be able to debug something successfully while the other complier fails to do so.<br>
+
+<br>**Team Collaboration**:<br>
 
 <br>**Ai Tool Reflection**:<br>
 Ai used: ChatGPT<br>
