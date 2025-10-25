@@ -50,7 +50,7 @@ Things that can be improved by my team if we had learnt arrays or any other c++ 
 >Less storage used which is a good programmer practice.<br>
 2. Lower case function has not been taught in c++ which could have helped in the "Begin string" in our code so that we wouldn't have to introduce the strings in both uper and lower case again and again.<br>
 
-3. For coupon system,we preffered concatination of strings over arrays as lesser for loops were used in it.<br>
+3. For coupon system,we preferred concatination of strings over arrays as lesser <ins>for loops</ins> were used in it.<br>
 
 
 
