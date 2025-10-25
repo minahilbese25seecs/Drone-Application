@@ -28,7 +28,7 @@ The code has been designed and tested on "write name of complier" complier.<br>
 
 <br>**Team Collaboration**:<br>
 Team lead:Manal Faisal.<br>
-          This team member plays a vital role of forming the base of the drone's code. 
+         This team member plays a vital role of forming the base of the drone's code. <br>
 Fatima Faisal: refining and correcting the final code.This team member is essential for rechecking the code and adding additional features to it in order to keep it updated.<br>
 
 
