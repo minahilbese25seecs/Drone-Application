@@ -17,7 +17,7 @@ Functions Implemented:<br>
    -Bool time(): declare time= current_time().It will catch the exact time of the device used.Very useful as time is never the same twice.<br>
 3. Later in the next line of code,bool weight() has been used where user is prompted to write the weight of his/her order which is accompanied by a number of if statements.If weight is more than 30kg limit,Delivery will be cancelled.<br>
 4. Bool delivery() used to check each and every one of above conditions to make sure conditions are optimal.<br>
-5. bool power() and bool charging() are used to make sure battery is enough for the delivery.If not,drone will return to base for recharging while cancelling the delivery entirely.<br>
+5. bool power() and bool charging() are used to make sure battery is enough for the delivery.If not,drone will return to base for recharging while cancelling the delivery entirely.User will then be asked whether to continue the delivery service or not.<br>
 6. Bool destination() is present in next line where code of the drone will check the total distance.According to the distance,total price will rise and battery of drone will fall respectively.<br>
 7. string coupon() used in case if the delivery was unsatisfactory,user will be awarded with a randomly generated coupon to use in next order.<br>
    > **Note**:<br>
