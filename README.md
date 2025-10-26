@@ -42,7 +42,7 @@ Moreover,code has been pushed on this repository using **Gitbash**.<br>
 
 <br>**Ai Tool Reflection**:<br>
 Ai used: ChatGPT<br>
-Reason: ChatGPT has been used by my team to double-check the code and to confirm if it does not contain any errors or not.
+Reason: ChatGPT has been used by my team to double-check the code and to confirm if it contains any errors or not.
 >ChatGPT has not been used to correct the errors, just used for <ins>pin-pointing the errors</ins>.<br>
 >W3 school was used to solve error for current_time fucntion by using #define _CRT_SECURE_NO_WARNINGS<br>
 
@@ -53,7 +53,7 @@ No Ai was used for brain-storming ideas for the drone simulator assignment.<br>
 
 
 <br>**Future Improvements**:<br>
-Things that can be improved by my team if we had learnt arrays or any other c++ functions are:<br>
+Things that could have been improved by my team if we had learnt arrays or any other c++ functions are:<br>
 1. Shorter code than the current code.
 >Less storage used which is a good programmer practice.<br>
 2. Lower case function has not been taught in c++ which could have helped in the "Begin string" in our code so that we wouldn't have to introduce the strings in both uper and lower case again and again.<br>
