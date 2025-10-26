@@ -19,7 +19,7 @@ Functions Implemented:<br>
 4. Bool delivery() used to check each and every one of above conditions to make sure conditions are optimal.<br>
 5. bool power() and bool charging() are used to make sure battery is enough for the delivery.If not,drone will return to base for recharging while cancelling the delivery entirely.<br>
 6. Bool destination() is present in next line where code of the drone will check the total distance.According to the distance,total price will rise and battery of drone will fall respectively.<br>
-7. string coupon() used in case if the delivery was unsatisfactory,user will be awaredec with a randomly generated coupon to use in next order.<br>
+7. string coupon() used in case if the delivery was unsatisfactory,user will be awarded with a randomly generated coupon to use in next order.<br>
    > **Note**:<br>
    >Keep in mind that the loop of deliveries will run until the battery of drone becomes zero and it returns to the base.In the end of the deliveries,it will display a short summary of all deliveries whether successful or failed.The recent coupon will be accepted even if you were given more than 1 coupon due to more than 1 failed delivery.<br>
 
