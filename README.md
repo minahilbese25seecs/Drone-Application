@@ -14,7 +14,7 @@ Functions Implemented:<br>
 1. Muliple if statements used for conditions for example weather conditions,time,battery life etc.<br>
 2. bool weather(),bool day() and bool time() has been used.<br>
    -Bool weather(): 3 random weathers are initiated in it like sunny.windy.rainy using modulus.<br>
-   -Bool day(): declare time= current_time().It will catch the exact time of the device used.Very useful as time is never the     same twice.<br>
+   -Bool time(): declare time= current_time().It will catch the exact time of the device used.Very useful as time is never the same twice.<br>
 3. Later in the next line of code,bool weight() has been used where user is prompted to write the weight of his/her order which is accompanied by a number of if statements.If weight is more than 30kg limit,Delivery will be cancelled.<br>
 4. Bool delivery() used to check each and every one of above conditions to make sure conditions are optimal.<br>
 5. bool power() and bool charging() are used to make sure battery is enough for the delivery.If not,drone will return to base for recharging while cancelling the delivery entirely.<br>
