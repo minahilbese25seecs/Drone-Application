@@ -35,7 +35,7 @@ The code has been designed and tested on **Visual Studio/Visual Studio Code** co
 Moreover,code has been pushed on this repository using **Gitbash**.<br>
 <br>**Team Collaboration**:<br>
 <br>Manal Faisal: 
-             Plays a vital role of <ins>forming the base</ins> of the drone's code.Also <ins>leads this team</ins> skillfully by guiding each member with great detail.Has commited the base of the code<br>
+             Plays a vital role of <ins>forming the base</ins> of the drone's code.Also <ins>leads this team</ins> skillfully by guiding each member with great detail.Has commited the base of the code<br><img width="889" height="103" alt="Image" src="https://github.com/user-attachments/assets/61812826-6cb3-49fc-875e-1f8648a4037a" /><br>
 <br>Fatima Faizan: <ins>refining and correcting the final code</ins>.This team member is essential for rechecking the code and adding additional features to it in order to keep it updated.Has commited refined code below:<br><img width="872" height="64" alt="Image" src="https://github.com/user-attachments/assets/a86bbeb0-56d7-4477-87d1-6e49329518da" /><br>
 <br>Minahil Tahir: Responsible for maintaining a structured README.md file on <ins>github</ins> including other git files.Moreover,this team member handles <ins>formation of flowchart</ins> of functions for this particular assignment along with <ins>testing</ins> possible outcomes of the code formed by the team.Has commited flowchart document on this repository.<br>
 
